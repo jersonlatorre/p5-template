@@ -1,18 +1,16 @@
 {
   "name": "p5",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
   },
-  "devDependencies": {
-    "vite": "^5.0.5"
-  },
   "dependencies": {
-    "p5": "^1.9.0",
-    "p5-easy": "^1.0.0"
+    "p5-easy": "^1.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
   }
 }

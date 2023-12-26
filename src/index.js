@@ -1,9 +1,9 @@
 import p from 'p5-easy'
 
 p.setup = () => {
-  p.createCanvas(600, 600)
+  p.createCanvas(500, 500)
 }
 
 p.draw = () => {
-  p.background('PapayaWhip')
+  p.background('lightblue')
 }
